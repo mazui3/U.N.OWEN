@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d909c9a7f05677443b3c077bb26c3a8e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Resident Evil 7 biohazard
+  fontNames:
+  - Resident Evil 7 biohazard
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 8dd8316b89b3c994fab3408ab2f92dda, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
